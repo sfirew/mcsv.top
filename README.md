@@ -1,4 +1,4 @@
-# ⚡️ https://tw-mc.top 問題回報
+# ⚡️ https://mcsv.top 問題回報
 
 如果遇到問題，可以在 issues 提交問題
 
